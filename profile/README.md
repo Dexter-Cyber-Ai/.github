@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-<b>Dexter AI</b> is a hybrid cyber defense system that combines  
-<b>signature-based intrusion detection</b> with  
+<b>Dexter AI</b> is a hybrid cyber defense system combining  
+<b>signature-based intrusion detection</b> and  
 <b>machine-learning-driven anomaly detection</b>.
 </p>
 
@@ -27,7 +27,7 @@ focused on network-level threat detection.
 
 ---
 
-## 🎯 Phase 1 Goal (MVP)
+## Phase 1 Goal (MVP)
 
 Build a hybrid network defense module that:
 
@@ -38,24 +38,16 @@ Build a hybrid network defense module that:
 
 ---
 
-## ✨ Core Capabilities
-*(Seviye 2 – Feature Grid)*
+## Core Capabilities
 
-- 🧠 **ML-Based Anomaly Detection**  
-  Learns normal network behavior and flags deviations in real time.
-
-- 🛡️ **Signature-Driven IDS Engine**  
-  Uses Suricata to detect known attack patterns and threats.
-
-- 📡 **Network Traffic Simulation & Analysis**  
-  Full traffic generation and monitoring in a controlled environment.
-
-- ⚙️ **Modular & Extensible Architecture**  
-  Designed to evolve into autonomous detection and response systems.
+- ML-based anomaly detection on network traffic
+- Signature-driven intrusion detection using Suricata
+- Network traffic simulation and real-time analysis
+- Modular and extensible system architecture
 
 ---
 
-## 🧩 Core Components
+## Core Components
 
 ### Infrastructure Simulation
 - Docker-based enterprise network simulation
@@ -78,7 +70,7 @@ Build a hybrid network defense module that:
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - Python
 - Docker & Docker Compose
@@ -88,16 +80,15 @@ Build a hybrid network defense module that:
 
 ---
 
-## 🗺️ Roadmap
-*(Seviye 2 – Startup hissi veren kısım)*
+## Roadmap
 
-- ✅ **Phase 1** – Network IDS MVP  
-- 🟡 **Phase 2** – Behavioral Analysis & Advanced ML Models  
-- 🔲 **Phase 3** – Autonomous Response & Adaptive Defense
+- Phase 1 – Network IDS MVP
+- Phase 2 – Behavioral analysis and advanced ML models
+- Phase 3 – Autonomous response and adaptive defense
 
 ---
 
-## 📌 Project Status
+## Project Status
 
 This project is currently under active development.
 
@@ -112,4 +103,4 @@ are planned for future phases.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
