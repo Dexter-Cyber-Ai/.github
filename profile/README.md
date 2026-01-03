@@ -38,6 +38,23 @@ Build a hybrid network defense module that:
 
 ---
 
+## ✨ Core Capabilities
+*(Seviye 2 – Feature Grid)*
+
+- 🧠 **ML-Based Anomaly Detection**  
+  Learns normal network behavior and flags deviations in real time.
+
+- 🛡️ **Signature-Driven IDS Engine**  
+  Uses Suricata to detect known attack patterns and threats.
+
+- 📡 **Network Traffic Simulation & Analysis**  
+  Full traffic generation and monitoring in a controlled environment.
+
+- ⚙️ **Modular & Extensible Architecture**  
+  Designed to evolve into autonomous detection and response systems.
+
+---
+
 ## 🧩 Core Components
 
 ### Infrastructure Simulation
@@ -68,6 +85,15 @@ Build a hybrid network defense module that:
 - Suricata IDS
 - Pandas, NumPy
 - Scikit-learn
+
+---
+
+## 🗺️ Roadmap
+*(Seviye 2 – Startup hissi veren kısım)*
+
+- ✅ **Phase 1** – Network IDS MVP  
+- 🟡 **Phase 2** – Behavioral Analysis & Advanced ML Models  
+- 🔲 **Phase 3** – Autonomous Response & Adaptive Defense
 
 ---
 
