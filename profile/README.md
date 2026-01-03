@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dexter-Cyber-Ai/.github/main/profile/assets/banner.png"
+       width="1000"
+       alt="Dexter Cyber AI Banner" />
+</p>
+
 # Dexter AI – Phase 1
 
 Dexter AI is a hybrid network security system that combines
