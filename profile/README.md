@@ -1,7 +1,19 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dexter-Cyber-Ai/.github/main/profile/assets/banner.png"
-       width="1000"
+       width="850"
        alt="Dexter Cyber AI Banner" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Machine%20Learning-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber-Security-111827?style=for-the-badge&logo=hackthebox&logoColor=green" />
+  <img src="https://img.shields.io/badge/Python-Backend-1f2937?style=for-the-badge&logo=python&logoColor=yellow" />
+</p>
+
+<p align="center">
+<b>Dexter AI</b> is a hybrid cyber defense system that combines  
+<b>signature-based intrusion detection</b> with  
+<b>machine-learning-driven anomaly detection</b>.
 </p>
 
 # Dexter AI – Phase 1
@@ -15,7 +27,7 @@ focused on network-level threat detection.
 
 ---
 
-## Phase 1 Goal (MVP)
+## 🎯 Phase 1 Goal (MVP)
 
 Build a hybrid network defense module that:
 
@@ -26,7 +38,7 @@ Build a hybrid network defense module that:
 
 ---
 
-## Core Components
+## 🧩 Core Components
 
 ### Infrastructure Simulation
 - Docker-based enterprise network simulation
@@ -49,7 +61,7 @@ Build a hybrid network defense module that:
 
 ---
 
-## Technologies
+## 🛠️ Technologies
 
 - Python
 - Docker & Docker Compose
@@ -59,7 +71,7 @@ Build a hybrid network defense module that:
 
 ---
 
-## Project Status
+## 📌 Project Status
 
 This project is currently under active development.
 
@@ -72,11 +84,6 @@ Advanced features such as eBPF-based monitoring,
 self-learning models and automated response mechanisms
 are planned for future phases.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Machine%20Learning-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyber-Security-111827?style=for-the-badge&logo=hackthebox&logoColor=green" />
-  <img src="https://img.shields.io/badge/Python-Backend-1f2937?style=for-the-badge&logo=python&logoColor=yellow" />
-</p>
+---
 
-## Repository Structure
-
+## 📁 Repository Structure
