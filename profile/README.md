@@ -72,5 +72,11 @@ Advanced features such as eBPF-based monitoring,
 self-learning models and automated response mechanisms
 are planned for future phases.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Machine%20Learning-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber-Security-111827?style=for-the-badge&logo=hackthebox&logoColor=green" />
+  <img src="https://img.shields.io/badge/Python-Backend-1f2937?style=for-the-badge&logo=python&logoColor=yellow" />
+</p>
+
 ## Repository Structure
 
